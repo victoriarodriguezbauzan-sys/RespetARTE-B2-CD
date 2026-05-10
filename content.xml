@@ -1,0 +1,2595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260510132527NMS0AL</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260510132527SNYXUF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>RespetARTE: cuando el RESPETO se vuelve ARTE</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Mª Victoria Rodríguez Bauzán</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>RespetARTE es un proyecto para mi curso de 1.º de primaria que ayuda a los estudiantes a comprender y practicar el respeto a través del arte y actividades digitales sencillas. El recurso combina dibujos, juegos interactivos y pequeñas tareas que fortalecen la competencia digital del alumnado mientras aprenden a convivir y cuidarse mutuamente.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778412284961</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mozor97c-2gvj4lgap</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>RespetARTE: cuando el RESPETO se vuelve ARTE</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RespetARTE: cuando el RESPETO se vuelve ARTE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RespetARTE: cuando el RESPETO se vuelve ARTE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor97c-2gvj4lgap</odePageId>
+      <odeBlockId>block-mord0itl-e36ujzsij</odeBlockId>
+      <blockName>RESPET-ARTE🌈💖</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97c-2gvj4lgap</odePageId>
+          <odeBlockId>block-mord0itl-e36ujzsij</odeBlockId>
+          <odeIdeviceId>idevice-mord0itl-e816qjjjb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /><img src="{{context_path}}/content/resources/imagen_comienzo.png" alt="RespetARTE" title="RespetARTE" width="500" height="500" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: justify;">Este es el proyecto <em><strong>RespetARTE: cuando el respeto se vuelve arte</strong></em>. En este proyecto vamos a aprender jugando y pintando, igual que los niños del dibujo que están creando un arcoíris🌈. Cada color del arcoíris nos enseñará una forma de <em>respetar</em>: respetar a los compañeros, usar palabras bonitas, esperar nuestro turno y cuidar las tablets y los ordenadores💻. También aprenderemos a usar la tecnología con cuidado y respeto, sin hacer daño a los demás y protegiendo nuestras cosas. Juntos vamos a pintar a lo largo del curso un arcoíris lleno de valores bonitos y respeto🤝.</p>
+<p style="text-align: justify;">Ahora vamos a usar el <em>Genially.</em> En la pantalla verás colores, dibujos y botones para tocar. Cada vez que pulses☝️, aprenderás algo nuevo sobre el respeto y sobre cómo usar bien la tablet y el ordenador💻. Vamos a escuchar, mirar y jugar con cuidado, respetando los turnos y ayudándonos entre todos. Si algo no funciona, levantamos la mano y pedimos ayuda. <em>¿Estáis preparados para jugar y aprender?</em></p>
+<p><em>👇Pulsa aquí para entrar👇</em></p>
+<p><a href="https://view.genially.com/68fa3d9ec97c25f500614cbe/interactive-content-respetarte-cuando-el-respeto-se-vuelve-arte" target="_blank" title="NUESTRO PRIMER GENIALLY🙂🎨" rel="noopener">NUESTRO PRIMER GENIALLY🙂🎨</a></p>
+<pre>Pictogramas ARASAAC: <a href="https://arasaac.org">https://arasaac.org </a>Materiales gráficos de Genially</pre>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mord0itl-e816qjjjb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /><img src=\"{{context_path}}/content/resources/imagen_comienzo.png\" alt=\"RespetARTE\" title=\"RespetARTE\" width=\"500\" height=\"500\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: justify;\">Este es el proyecto <em><strong>RespetARTE: cuando el respeto se vuelve arte</strong></em>. En este proyecto vamos a aprender jugando y pintando, igual que los niños del dibujo que están creando un arcoíris🌈. Cada color del arcoíris nos enseñará una forma de <em>respetar</em>: respetar a los compañeros, usar palabras bonitas, esperar nuestro turno y cuidar las tablets y los ordenadores💻. También aprenderemos a usar la tecnología con cuidado y respeto, sin hacer daño a los demás y protegiendo nuestras cosas. Juntos vamos a pintar a lo largo del curso un arcoíris lleno de valores bonitos y respeto🤝.</p>\n<p style=\"text-align: justify;\">Ahora vamos a usar el <em>Genially.</em> En la pantalla verás colores, dibujos y botones para tocar. Cada vez que pulses☝️, aprenderás algo nuevo sobre el respeto y sobre cómo usar bien la tablet y el ordenador💻. Vamos a escuchar, mirar y jugar con cuidado, respetando los turnos y ayudándonos entre todos. Si algo no funciona, levantamos la mano y pedimos ayuda. <em>¿Estáis preparados para jugar y aprender?</em></p>\n<p><em>👇Pulsa aquí para entrar👇</em></p>\n<p><a href=\"https://view.genially.com/68fa3d9ec97c25f500614cbe/interactive-content-respetarte-cuando-el-respeto-se-vuelve-arte\" target=\"_blank\" title=\"NUESTRO PRIMER GENIALLY🙂🎨\" rel=\"noopener\">NUESTRO PRIMER GENIALLY🙂🎨</a></p>\n<pre>Pictogramas ARASAAC: <a href=\"https://arasaac.org\">https://arasaac.org </a>Materiales gráficos de Genially</pre>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozor97i-xofyvdg1d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¡MIS DATOS SON UN TESORO!💎🔒</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡MIS DATOS SON UN TESORO!💎🔒</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡MIS DATOS SON UN TESORO!💎🔒</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor97i-xofyvdg1d</odePageId>
+      <odeBlockId>block-mord0itm-hgueomf3o</odeBlockId>
+      <blockName>¡MIS DATOS SON UN TESORO!💎🔒</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97i-xofyvdg1d</odePageId>
+          <odeBlockId>block-mord0itm-hgueomf3o</odeBlockId>
+          <odeIdeviceId>idevice-mord0itm-c852rdhs0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>¡Hola, chicos y chicas! Hoy vamos a aprender a cuidar cosas muy importantes: nuestro nombre, nuestras fotos y nuestros secretos.<br />Todo eso se llama <em>datos</em>. Os voy a enseñar a cuidarlos como un tesoro.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>¡Hola, chicos y chicas! Hoy vamos a aprender a cuidar cosas muy importantes: nuestro nombre, nuestras fotos y nuestros secretos.<br />Todo eso se llama <em>datos</em>. Os voy a enseñar a cuidarlos como un tesoro.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozor97k-gtwydyp0r</odePageId>
+  <odeParentPageId>page-mozor97i-xofyvdg1d</odeParentPageId>
+  <pageName>Nos cuidamos 🤗</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nos cuidamos 🤗</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nos cuidamos 🤗</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor97k-gtwydyp0r</odePageId>
+      <odeBlockId>block-mord0itm-r58s5b5hz</odeBlockId>
+      <blockName>Nos cuidamos</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97k-gtwydyp0r</odePageId>
+          <odeBlockId>block-mord0itm-r58s5b5hz</odeBlockId>
+          <odeIdeviceId>idevice-mord0itm-e28olf35l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h6>Ahora vamos a ver una infografía. Es un dibujo que nos enseña cómo cuidar cosas muy importantes: nuestro nombre👤, nuestras fotos📷 y nuestros secretos🤫. A eso lo llamamos datos. Vamos a mirar con atención los dibujos y aprender qué cosas sí podemos compartir y cuáles no. Usaremos la tablet con cuidado, escucharemos y levantaremos la mano si tenemos dudas. Así aprendemos a proteger nuestros datos y a usar la tecnología de forma segura🔒.<embed width="640" height="480" style="display: block; margin-left: auto; margin-right: auto;" src="{{context_path}}/content/resources/Infografia_RespetARTE.pdf" type="application/pdf"></embed>Materiales gráficos Victoria RB creados con Canva.com</h6>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mord0itm-e28olf35l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h6>Ahora vamos a ver una infografía. Es un dibujo que nos enseña cómo cuidar cosas muy importantes: nuestro nombre👤, nuestras fotos📷 y nuestros secretos🤫. A eso lo llamamos datos. Vamos a mirar con atención los dibujos y aprender qué cosas sí podemos compartir y cuáles no. Usaremos la tablet con cuidado, escucharemos y levantaremos la mano si tenemos dudas. Así aprendemos a proteger nuestros datos y a usar la tecnología de forma segura🔒.<embed width=\"640\" height=\"480\" style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"{{context_path}}/content/resources/Infografia_RespetARTE.pdf\" type=\"application/pdf\"></embed>Materiales gráficos Victoria RB creados con Canva.com</h6>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozor97l-5yg9sl01g</odePageId>
+  <odeParentPageId>page-mozor97k-gtwydyp0r</odeParentPageId>
+  <pageName>¡Datos seguros, niños felices!😄</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Datos seguros, niños felices!😄</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Datos seguros, niños felices!😄</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor97l-5yg9sl01g</odePageId>
+      <odeBlockId>block-mord0itm-7mk62niji</odeBlockId>
+      <blockName>¡Datos seguros, niños felices!😄</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97l-5yg9sl01g</odePageId>
+          <odeBlockId>block-mord0itm-7mk62niji</odeBlockId>
+          <odeIdeviceId>idevice-mord0itm-t9lmvkllq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Ahora vamos a ver la infografía en <em>Canva</em>. Es un enlace, como una puerta que se abre para ver el dibujo. Solo vamos a mirar👀 y aprender. No escribimos🚫✏️nada y no cambiamos nada. Miramos👀con calma los dibujos y escuchamos👂a la seño. Así usamos Internet de forma segura🗝️y cuidamos nuestros datos.</p>
+<p>Pulsa 😄 para entrar</p>
+<p><a href="https://canva.link/fcddq8iq0o0k62c" target="_blank" title="" rel="noopener">😄NUESTRO PRIMER CANVA⭐</a></p>
+<pre>Materiales gráficos Victoria RB mediante Canva.com</pre>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mord0itm-t9lmvkllq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Ahora vamos a ver la infografía en <em>Canva</em>. Es un enlace, como una puerta que se abre para ver el dibujo. Solo vamos a mirar👀 y aprender. No escribimos🚫✏️nada y no cambiamos nada. Miramos👀con calma los dibujos y escuchamos👂a la seño. Así usamos Internet de forma segura🗝️y cuidamos nuestros datos.</p>\n<p>Pulsa 😄 para entrar</p>\n<p><a href=\"https://canva.link/fcddq8iq0o0k62c\" target=\"_blank\" title=\"\" rel=\"noopener\">😄NUESTRO PRIMER CANVA⭐</a></p>\n<pre>Materiales gráficos Victoria RB mediante Canva.com</pre>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozor97m-6nduexr6s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>APRENDEMOS NUESTRAS EMOCIONES😍😟</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>APRENDEMOS NUESTRAS EMOCIONES😍😟</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>APRENDEMOS NUESTRAS EMOCIONES😍😟</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor97m-6nduexr6s</odePageId>
+      <odeBlockId>block-mord0itm-5juet2l41</odeBlockId>
+      <blockName>APRENDEMOS NUESTRAS EMOCIONES 😟😍</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97m-6nduexr6s</odePageId>
+          <odeBlockId>block-mord0itm-5juet2l41</odeBlockId>
+          <odeIdeviceId>idevice-mord0itm-jn90v7byx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">En nuestro proyecto <strong><em>“RespetARTE: el RESPETO como ARTE”</em></strong>, vamos a descubrir que el respeto también puede ser una forma de crear y de expresarnos.<br />A través de juegos, cuentos, dibujos, vídeos y herramientas digitales, aprenderemos a conocer nuestras emociones, a cuidar a los demás y a convivir de manera alegre y amable.</p>
+<p style="text-align: justify;">En este viaje aprenderemos<em> valores</em> importantes como:</p>
+<p style="text-align: justify;">✨La <strong>empatía</strong>, para ponernos en el lugar del otro.<br />✨La <strong>amistad</strong>, para convivir felices.<br />✨La <strong>tolerancia</strong>, para aceptar que todos somos diferentes.<br />✨El <strong>respeto</strong>, para cuidarnos y tratarnos bien.<br />Con actividades divertidas y herramientas digitales, descubriremos que el respeto también se puede dibujar, cantar, crear y compartir.<br /><em>¡Prepárate para convertirte en un artista del respeto!</em></p>
+<p style="text-align: justify;"><br /><br /> <br /> </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">En nuestro proyecto <strong><em>“RespetARTE: el RESPETO como ARTE”</em></strong>, vamos a descubrir que el respeto también puede ser una forma de crear y de expresarnos.<br />A través de juegos, cuentos, dibujos, vídeos y herramientas digitales, aprenderemos a conocer nuestras emociones, a cuidar a los demás y a convivir de manera alegre y amable.</p>\n<p style=\"text-align: justify;\">En este viaje aprenderemos<em> valores</em> importantes como:</p>\n<p style=\"text-align: justify;\">✨La <strong>empatía</strong>, para ponernos en el lugar del otro.<br />✨La <strong>amistad</strong>, para convivir felices.<br />✨La <strong>tolerancia</strong>, para aceptar que todos somos diferentes.<br />✨El <strong>respeto</strong>, para cuidarnos y tratarnos bien.<br />Con actividades divertidas y herramientas digitales, descubriremos que el respeto también se puede dibujar, cantar, crear y compartir.<br /><em>¡Prepárate para convertirte en un artista del respeto!</em></p>\n<p style=\"text-align: justify;\"><br /><br /> <br /> </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozor97m-6nduexr6s</odePageId>
+      <odeBlockId>block-mord0itm-mpweara00</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97m-6nduexr6s</odePageId>
+          <odeBlockId>block-mord0itm-mpweara00</odeBlockId>
+          <odeIdeviceId>idevice-mord0itm-jfcfioc7u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozor97n-nb4ig6mfy</odePageId>
+  <odeParentPageId>page-mozor97m-6nduexr6s</odeParentPageId>
+  <pageName>Secuencia didáctica📋</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia didáctica📋</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia didáctica📋</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor97n-nb4ig6mfy</odePageId>
+      <odeBlockId>block-mord0itm-2unzgdsnc</odeBlockId>
+      <blockName></blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97n-nb4ig6mfy</odePageId>
+          <odeBlockId>block-mord0itm-2unzgdsnc</odeBlockId>
+          <odeIdeviceId>idevice-mord0itm-t5jh456d7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>En este pdf sobre la curación de contenidos que os expongo a continuación, he seleccionado recursos educativos y herramientas digitales que he considerado adecuados para mis estudiantes de 1º de primaria, con el propósito de favorecer la comprensión y la práctica del respeto, y otros valores,  a través de la digitalización y el arte. Los materiales los he elegido por su claridad, atractivo visual, sencillez, adecuados para la edad y el nivel de mi alumnado.  </p>
+<hr />
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>En este pdf sobre la curación de contenidos que os expongo a continuación, he seleccionado recursos educativos y herramientas digitales que he considerado adecuados para mis estudiantes de 1º de primaria, con el propósito de favorecer la comprensión y la práctica del respeto, y otros valores,  a través de la digitalización y el arte. Los materiales los he elegido por su claridad, atractivo visual, sencillez, adecuados para la edad y el nivel de mi alumnado.  </p>\n<hr />\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozor97n-nb4ig6mfy</odePageId>
+      <odeBlockId>block-mord0itm-ibqtxu13k</odeBlockId>
+      <blockName>Secuencia didáctica</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97n-nb4ig6mfy</odePageId>
+          <odeBlockId>block-mord0itm-ibqtxu13k</odeBlockId>
+          <odeIdeviceId>idevice-mord0itm-kuchmprka</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>En este pdf sobre la curación de contenidos que os expongo a continuación, he seleccionado recursos educativos y herramientas digitales que he considerado adecuados para mis estudiantes de 1º de primaria, con el propósito de favorecer la comprensión y la práctica del respeto, y otros valores,  a través de la digitalización y el arte. Los materiales los he elegido por su claridad, atractivo visual, sencillez, adecuados para la edad y el nivel de mi alumnado. </p>
+<p><embed width="640" height="480" style="display: block; margin-left: auto; margin-right: auto;" src="{{context_path}}/content/resources/5.1_Curacion_de_contenidos.pdf" type="application/pdf"></embed></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>En este pdf sobre la curación de contenidos que os expongo a continuación, he seleccionado recursos educativos y herramientas digitales que he considerado adecuados para mis estudiantes de 1º de primaria, con el propósito de favorecer la comprensión y la práctica del respeto, y otros valores,  a través de la digitalización y el arte. Los materiales los he elegido por su claridad, atractivo visual, sencillez, adecuados para la edad y el nivel de mi alumnado. </p>\n<p><embed width=\"640\" height=\"480\" style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"{{context_path}}/content/resources/5.1_Curacion_de_contenidos.pdf\" type=\"application/pdf\"></embed></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozor97p-wb26d7leh</odePageId>
+  <odeParentPageId>page-mozor97m-6nduexr6s</odeParentPageId>
+  <pageName>👭Somos niños extraordinarios🧑‍🤝‍🧑</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>👭Somos niños extraordinarios🧑‍🤝‍🧑</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>👭Somos niños extraordinarios🧑‍🤝‍🧑</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor97p-wb26d7leh</odePageId>
+      <odeBlockId>block-mord0itm-l7g515exe</odeBlockId>
+      <blockName>Somos niños extraordinarios</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97p-wb26d7leh</odePageId>
+          <odeBlockId>block-mord0itm-l7g515exe</odeBlockId>
+          <odeIdeviceId>idevice-mord0itm-mgvrora7j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¡Bienvenidos a nuestro espacio especial!</strong><br />En este Padlet encontrarás vídeos, cuentos, canciones y actividades que te ayudarán a descubrir lo maravilloso que eres.</p>
+<p>Aquí aprenderemos que:<br />✨ Todos tenemos <strong>talentos únicos</strong>.<br />✨ Cada uno de nosotros es <strong>diferente y especial</strong>.<br />✨ Podemos crecer, aprender y brillar cada día.</p>
+<p>Este Padlet está lleno de cosas bonitas, divertidas y fáciles de usar. Solo tienes que hacer clic en cada tarjeta para ver un vídeo, escuchar una canción o disfrutar de una actividad.</p>
+<p><em>Porque tú… ¡eres un niño extraordinario!</em><br /><em>Y juntos vamos a seguir aprendiendo, soñando y creando.</em></p>
+<p><em><embed width="640" height="480" style="display: block; margin-left: auto; margin-right: auto;" src="{{context_path}}/content/resources/PADLET.pdf" type="application/pdf"></embed><br /></em></p>
+<p style="text-align: center;"><br /></p>
+<p><a href="https://padlet.com/victoriarodriguezbauzan/respetarte-cuando-el-respeto-se-vuelve-arte-f3ve1sn5i5o6srp4" title="QUE BONITO NUESTRO PADLET😊" target="_blank" rel="noopener">QUE BONITO NUESTRO PADLET😊</a></p>
+<p>Imágenes y vídeos youtube.com</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mord0itm-mgvrora7j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¡Bienvenidos a nuestro espacio especial!</strong><br />En este Padlet encontrarás vídeos, cuentos, canciones y actividades que te ayudarán a descubrir lo maravilloso que eres.</p>\n<p>Aquí aprenderemos que:<br />✨ Todos tenemos <strong>talentos únicos</strong>.<br />✨ Cada uno de nosotros es <strong>diferente y especial</strong>.<br />✨ Podemos crecer, aprender y brillar cada día.</p>\n<p>Este Padlet está lleno de cosas bonitas, divertidas y fáciles de usar. Solo tienes que hacer clic en cada tarjeta para ver un vídeo, escuchar una canción o disfrutar de una actividad.</p>\n<p><em>Porque tú… ¡eres un niño extraordinario!</em><br /><em>Y juntos vamos a seguir aprendiendo, soñando y creando.</em></p>\n<p><em><embed width=\"640\" height=\"480\" style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"{{context_path}}/content/resources/PADLET.pdf\" type=\"application/pdf\"></embed><br /></em></p>\n<p style=\"text-align: center;\"><br /></p>\n<p><a href=\"https://padlet.com/victoriarodriguezbauzan/respetarte-cuando-el-respeto-se-vuelve-arte-f3ve1sn5i5o6srp4\" title=\"QUE BONITO NUESTRO PADLET😊\" target=\"_blank\" rel=\"noopener\">QUE BONITO NUESTRO PADLET😊</a></p>\n<p>Imágenes y vídeos youtube.com</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozor97r-abk69s3ap</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>FORMANDO PEQUEÑOS ARTISTAS DEL RESPETO👦🎨👧</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FORMANDO PEQUEÑOS ARTISTAS DEL RESPETO👦🎨👧</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FORMANDO PEQUEÑOS ARTISTAS DEL RESPETO👦🎨👧</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor97r-abk69s3ap</odePageId>
+      <odeBlockId>block-mord0itn-s6xasletq</odeBlockId>
+      <blockName>&quot;RespetARTE: formando pequeños artistas del respeto&quot;</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97r-abk69s3ap</odePageId>
+          <odeBlockId>block-mord0itn-s6xasletq</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-r3dxtjuyu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><em>¡Hola de nuevo, pequeños artistas!</em><br />En este espacio vamos a encontrarnos con canciones llenas de valores bonitos y vídeos divertidos para pintar con las manos.<br />A través de la música y el arte aprenderemos a respetar, compartir, escuchar y expresar lo que sentimos.</p>
+<p style="text-align: justify;">Con cada canción descubrirás un valor importante, como la amistad, la empatía o la alegría. Y con cada actividad artística podrás crear con tus manos, experimentar colores y dejar volar tu imaginación.</p>
+<p style="text-align: justify;">Este es un lugar para aprender jugando, para emocionarnos, para crear y, sobre todo, para recordar que el respeto también se pinta, se canta y se vive cada día.</p>
+<p style="text-align: justify;"><strong><em>¿ Estás preparado para divertirte y convertirte en un verdadero artista del respeto?<a href="formando-pequenos-artistas-del-respeto.html" target="_blank" title="AMA Y ENSANCHA EL ALMA" rel="noopener"></a></em></strong></p>
+<p><a href="https://youtu.be/_Xt1vh_ckGA" title="AMA Y ENSANCHA EL ALMA 💖">AMA Y ENSANCHA EL ALMA 💖</a></p>
+<p><a href="https://youtu.be/utviEIYnYWo" target="_blank" title="QUIERO QUE ME QUIERAS BIEN ✋💖" rel="noopener">QUIERO QUE ME QUIERAS BIEN ✋💖</a></p>
+<p>Y después de nuestras dos canciones, pasamos a nuestras actividades para realizar con pinturas de manos:</p>
+<p><a href="https://youtu.be/4ny45uyoP3M" target="_blank" title="EL ARTE CON NUESTRAS MANOS✋🎨" rel="noopener">EL ARTE CON NUESTRAS MANOS✋🎨</a></p>
+<p>También, por último, podemos ver algunos cortos preciosos llenos de valores como éste: </p>
+<p><a href="https://youtu.be/4INwx_tmTKw?si=zLRbrme5Qve5S3Tl" target="_blank" title="CORTO CUERDAS 💻💖" rel="noopener">CORTO CUERDAS 💻💖</a></p>
+<p><strong><em></em></strong><br /></p>
+<p><strong><em>Licencia estándar de YouTube</em></strong><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mord0itn-r3dxtjuyu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><em>¡Hola de nuevo, pequeños artistas!</em><br />En este espacio vamos a encontrarnos con canciones llenas de valores bonitos y vídeos divertidos para pintar con las manos.<br />A través de la música y el arte aprenderemos a respetar, compartir, escuchar y expresar lo que sentimos.</p>\n<p style=\"text-align: justify;\">Con cada canción descubrirás un valor importante, como la amistad, la empatía o la alegría. Y con cada actividad artística podrás crear con tus manos, experimentar colores y dejar volar tu imaginación.</p>\n<p style=\"text-align: justify;\">Este es un lugar para aprender jugando, para emocionarnos, para crear y, sobre todo, para recordar que el respeto también se pinta, se canta y se vive cada día.</p>\n<p style=\"text-align: justify;\"><strong><em>¿ Estás preparado para divertirte y convertirte en un verdadero artista del respeto?<a href=\"exe-node:page-mozor97r-abk69s3ap\" target=\"_blank\" title=\"AMA Y ENSANCHA EL ALMA\" rel=\"noopener\"></a></em></strong></p>\n<p><a href=\"https://youtu.be/_Xt1vh_ckGA\" title=\"AMA Y ENSANCHA EL ALMA 💖\">AMA Y ENSANCHA EL ALMA 💖</a></p>\n<p><a href=\"https://youtu.be/utviEIYnYWo\" target=\"_blank\" title=\"QUIERO QUE ME QUIERAS BIEN ✋💖\" rel=\"noopener\">QUIERO QUE ME QUIERAS BIEN ✋💖</a></p>\n<p>Y después de nuestras dos canciones, pasamos a nuestras actividades para realizar con pinturas de manos:</p>\n<p><a href=\"https://youtu.be/4ny45uyoP3M\" target=\"_blank\" title=\"EL ARTE CON NUESTRAS MANOS✋🎨\" rel=\"noopener\">EL ARTE CON NUESTRAS MANOS✋🎨</a></p>\n<p>También, por último, podemos ver algunos cortos preciosos llenos de valores como éste: </p>\n<p><a href=\"https://youtu.be/4INwx_tmTKw?si=zLRbrme5Qve5S3Tl\" target=\"_blank\" title=\"CORTO CUERDAS 💻💖\" rel=\"noopener\">CORTO CUERDAS 💻💖</a></p>\n<p><strong><em></em></strong><br /></p>\n<p><strong><em>Licencia estándar de YouTube</em></strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozor97r-cjzdgu5nu</odePageId>
+  <odeParentPageId>page-mozor97r-abk69s3ap</odeParentPageId>
+  <pageName>Secuencia didáctica II📝</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia didáctica II📝</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia didáctica II📝</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor97r-cjzdgu5nu</odePageId>
+      <odeBlockId>block-mord0itn-7l3x9hrrk</odeBlockId>
+      <blockName>Asesoramiento y apoyo </blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97r-cjzdgu5nu</odePageId>
+          <odeBlockId>block-mord0itn-7l3x9hrrk</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-s93s66ia5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">Se incluye a continuación este bloque sobre asesoramiento y apoyo a un personaje ficticio, requerido por la entrega del curso. Este bloque no está directamente relacionado con el proyecto principal que he propuesto sobre RespetARTE, pero se incorpora para cumplir con los criterios de evaluación. Su propósito es mostrar la secuencia didáctica y la planificación de actividades, siguiendo las indicaciones del curso.</p>
+<p style="text-align: justify;"><strong>ASESORAMIENTO Y APOYO PARA GONZALO</strong></p>
+<p>de María Victoria Rodríguez Bauzán - sábado, 4 de abril de 2026, 18:07<br />Número de respuestas: 0<br /> <br />Hola, Gonzalo:</p>
+<p>En primer lugar, enhorabuena por tu nuevo cargo y gracias por compartir la propuesta con el claustro. Me parece una iniciativa muy necesaria, ya que una comunicación fluida y organizada es clave para el buen funcionamiento del centro. A continuación, te comento, bajo mi opinión, algunas sugerencias sobre los tres ámbitos de herramientas que planteas llevar a cabo:</p>
+<p>Comunicación entre el profesorado</p>
+<p>La propuesta de usar WhatsApp es práctica y rápida, pero puede generar algunos inconvenientes: mezcla del ámbito personal y profesional, saturación de mensajes y dificultad para mantener la privacidad y el orden. En nuestro centro utilizamos Telegram como canal de comunicación interno. Permite crear grupos o canales con gran capacidad de miembros, enviar archivos de todo tipo y mantener la información ordenada. Además, no es necesario compartir el número de teléfono, lo que protege la privacidad del profesorado y evita mezclar comunicaciones personales con las del centro. También, es posible fijar mensajes, usar encuestas y mantener todo el historial accesible fácilmente.</p>
+<p>Comunicación entre profesorado y alumnado</p>
+<p>Me parece muy acertado el uso de Moodle Centros como plataforma principal, ya que garantiza un entorno seguro y formal. No obstante, sería recomendable fomentar su uso no solo paro compartir tareas, sino también como canal de retroalimentación y avisos. En algunos casos, complementarlo con Google Classroom quizás podría mejorar la interacción sin perder el carácter institucional.</p>
+<p>Comunicación entre profesorado y familia</p>
+<p>Entiendo la flexibilidad de dejar que cada tutor decida el canal, pero eso puede generar confusión entre las familias de los diferentes niveles y/o cursos. En mi experiencia, resulta más eficaz unificar el canal de comunicación. Nosotros usamos Ipassen/Séneca ya que permite enviar avisos oficiales, autorizar salidas o recibir justificaciones de faltas, todo dentro de un entorno seguro. Siendo la plataforma institucional que ofrece la administración educativa de nuestra comunidad autónoma.</p>
+<p>En resumen, creo que tu propuesta es un buen punto de partida, pero sería conveniente apostar por herramientas institucionales que garanticen la protección de datos, lo coherencia comunicativa y la separación entre la vida personal y profesional.</p>
+<p>Un saludo cordial: Victoria.</p>
+<p>(Quería insertar una captura de pantalla pero la imagen era borrosa y de baja resolución)</p>
+<p style="text-align: justify;"></p>
+<p>    </p>
+<p>       </p>
+<p>       </p>
+<p>       </p>
+<p>       </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">Se incluye a continuación este bloque sobre asesoramiento y apoyo a un personaje ficticio, requerido por la entrega del curso. Este bloque no está directamente relacionado con el proyecto principal que he propuesto sobre RespetARTE, pero se incorpora para cumplir con los criterios de evaluación. Su propósito es mostrar la secuencia didáctica y la planificación de actividades, siguiendo las indicaciones del curso.</p>\n<p style=\"text-align: justify;\"><strong>ASESORAMIENTO Y APOYO PARA GONZALO</strong></p>\n<p>de María Victoria Rodríguez Bauzán - sábado, 4 de abril de 2026, 18:07<br />Número de respuestas: 0<br /> <br />Hola, Gonzalo:</p>\n<p>En primer lugar, enhorabuena por tu nuevo cargo y gracias por compartir la propuesta con el claustro. Me parece una iniciativa muy necesaria, ya que una comunicación fluida y organizada es clave para el buen funcionamiento del centro. A continuación, te comento, bajo mi opinión, algunas sugerencias sobre los tres ámbitos de herramientas que planteas llevar a cabo:</p>\n<p>Comunicación entre el profesorado</p>\n<p>La propuesta de usar WhatsApp es práctica y rápida, pero puede generar algunos inconvenientes: mezcla del ámbito personal y profesional, saturación de mensajes y dificultad para mantener la privacidad y el orden. En nuestro centro utilizamos Telegram como canal de comunicación interno. Permite crear grupos o canales con gran capacidad de miembros, enviar archivos de todo tipo y mantener la información ordenada. Además, no es necesario compartir el número de teléfono, lo que protege la privacidad del profesorado y evita mezclar comunicaciones personales con las del centro. También, es posible fijar mensajes, usar encuestas y mantener todo el historial accesible fácilmente.</p>\n<p>Comunicación entre profesorado y alumnado</p>\n<p>Me parece muy acertado el uso de Moodle Centros como plataforma principal, ya que garantiza un entorno seguro y formal. No obstante, sería recomendable fomentar su uso no solo paro compartir tareas, sino también como canal de retroalimentación y avisos. En algunos casos, complementarlo con Google Classroom quizás podría mejorar la interacción sin perder el carácter institucional.</p>\n<p>Comunicación entre profesorado y familia</p>\n<p>Entiendo la flexibilidad de dejar que cada tutor decida el canal, pero eso puede generar confusión entre las familias de los diferentes niveles y/o cursos. En mi experiencia, resulta más eficaz unificar el canal de comunicación. Nosotros usamos Ipassen/Séneca ya que permite enviar avisos oficiales, autorizar salidas o recibir justificaciones de faltas, todo dentro de un entorno seguro. Siendo la plataforma institucional que ofrece la administración educativa de nuestra comunidad autónoma.</p>\n<p>En resumen, creo que tu propuesta es un buen punto de partida, pero sería conveniente apostar por herramientas institucionales que garanticen la protección de datos, lo coherencia comunicativa y la separación entre la vida personal y profesional.</p>\n<p>Un saludo cordial: Victoria.</p>\n<p>(Quería insertar una captura de pantalla pero la imagen era borrosa y de baja resolución)</p>\n<p style=\"text-align: justify;\"></p>\n<p>    </p>\n<p>       </p>\n<p>       </p>\n<p>       </p>\n<p>       </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozor97s-hcns6yd0k</odePageId>
+  <odeParentPageId>page-mozor97r-abk69s3ap</odeParentPageId>
+  <pageName>🤝MUSEO DIGITAL DEL RESPETO🌈🎨</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🤝MUSEO DIGITAL DEL RESPETO🌈🎨</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>🤝MUSEO DIGITAL DEL RESPETO🌈🎨</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor97s-hcns6yd0k</odePageId>
+      <odeBlockId>block-mord0itn-xcv0r1b9d</odeBlockId>
+      <blockName>🤝Nuestro museo digital del respeto🏛️🎨</blockName>
+      <iconName>history</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97s-hcns6yd0k</odePageId>
+          <odeBlockId>block-mord0itn-xcv0r1b9d</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-mtvbukwks</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">¡Ahora vamos a crear nuestro <strong>Museo Digital del Respeto</strong>! 🌈🎨</p>
+<p style="text-align: justify;">Cada uno de vosotros va a hacer una obra de arte: puede ser un dibujo, un collage, una foto de algo que hayan hecho o incluso una maqueta.🖍️✂️</p>
+<p style="text-align: justify;">Después, vamos a elegir una palabra o un mensaje cortito que tenga que ver con el respeto. Por ejemplo: “amistad”, “ayuda”, “cuidar a los amigos”🤝</p>
+<p style="text-align: justify;">Todas nuestras obras se van a juntar en un<em> mural digital</em>, que será nuestro <strong>Museo del Respeto</strong>🏛️✨ Cada uno aparecerá con su nombre y podrá grabar un audio muy cortito, donde nos cuenten lo que hicieron y por qué lo eligieron🎤😄</p>
+<p style="text-align: justify;">Lo haremos con la herramienta digital de <em>Padlet</em>, es como un gran mural digital. Solo tendréis que pulsar un botón para subir vuestro dibujo o grabar vuestra voz, ¡muy fácil!👆💻</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">¡Ahora vamos a crear nuestro <strong>Museo Digital del Respeto</strong>! 🌈🎨</p>\n<p style=\"text-align: justify;\">Cada uno de vosotros va a hacer una obra de arte: puede ser un dibujo, un collage, una foto de algo que hayan hecho o incluso una maqueta.🖍️✂️</p>\n<p style=\"text-align: justify;\">Después, vamos a elegir una palabra o un mensaje cortito que tenga que ver con el respeto. Por ejemplo: “amistad”, “ayuda”, “cuidar a los amigos”🤝</p>\n<p style=\"text-align: justify;\">Todas nuestras obras se van a juntar en un<em> mural digital</em>, que será nuestro <strong>Museo del Respeto</strong>🏛️✨ Cada uno aparecerá con su nombre y podrá grabar un audio muy cortito, donde nos cuenten lo que hicieron y por qué lo eligieron🎤😄</p>\n<p style=\"text-align: justify;\">Lo haremos con la herramienta digital de <em>Padlet</em>, es como un gran mural digital. Solo tendréis que pulsar un botón para subir vuestro dibujo o grabar vuestra voz, ¡muy fácil!👆💻</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozor97s-hcns6yd0k</odePageId>
+      <odeBlockId>block-mord0itn-5qz3i7zsu</odeBlockId>
+      <blockName>Image Gallery</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97s-hcns6yd0k</odePageId>
+          <odeBlockId>block-mord0itn-5qz3i7zsu</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-ad9g9dtsh</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozor97t-t1wzwjtxf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TABLERO DE RECURSOS EDUCATIVOS SYMBALOO💻</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TABLERO DE RECURSOS EDUCATIVOS SYMBALOO💻</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TABLERO DE RECURSOS EDUCATIVOS SYMBALOO💻</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor97t-t1wzwjtxf</odePageId>
+      <odeBlockId>block-mord0itn-tgrsiuuca</odeBlockId>
+      <blockName>BOTONES MÁGICOS PARA APRENDER😄🖱️ </blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97t-t1wzwjtxf</odePageId>
+          <odeBlockId>block-mord0itn-tgrsiuuca</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-85dfrr9ab</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Hemos creado un rincón especial en la pantalla, llamado Symbaloo, donde hay muchos botones de colores. Cada botón nos lleva a un juego, dibujo, video o actividad divertida. 🌈🖍️🎨</p>
+<p>Podréis hacer clic en los botones para:</p>
+<p>✨Ver cosas nuevas<br />✨Aprender jugando<br />✨Descubrir ideas para dibujar, escuchar o experimentar 😄</p>
+<p>Es como un gran mural de actividades digitales, todo en un solo lugar. Y lo mejor es que vuestros amigos y otros maestros también pueden verlo y usarlo para aprender cosas nuevas🤗💖</p>
+<p>¡Ahora podéis ver y explorar nuestro rincón digital haciendo clic en los botones de más abajo! 🟢🔵</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAbBhX1MAA41-5Be7gA==" target="_blank" title="🔵BOTONES MÁGICOS PARA APRENDER🟢" rel="noopener">🔵BOTONES MÁGICOS PARA APRENDER🟢</a></p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/symbaloo.png" alt="NUESTRO SYMBALOO" title="NUESTRO SYMBALOO" width="767" height="450" style="display: block; margin-left: auto; margin-right: auto;" />Victoria RB creado con Symbaloo.com</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mord0itn-85dfrr9ab","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hemos creado un rincón especial en la pantalla, llamado Symbaloo, donde hay muchos botones de colores. Cada botón nos lleva a un juego, dibujo, video o actividad divertida. 🌈🖍️🎨</p>\n<p>Podréis hacer clic en los botones para:</p>\n<p>✨Ver cosas nuevas<br />✨Aprender jugando<br />✨Descubrir ideas para dibujar, escuchar o experimentar 😄</p>\n<p>Es como un gran mural de actividades digitales, todo en un solo lugar. Y lo mejor es que vuestros amigos y otros maestros también pueden verlo y usarlo para aprender cosas nuevas🤗💖</p>\n<p>¡Ahora podéis ver y explorar nuestro rincón digital haciendo clic en los botones de más abajo! 🟢🔵</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAbBhX1MAA41-5Be7gA==\" target=\"_blank\" title=\"🔵BOTONES MÁGICOS PARA APRENDER🟢\" rel=\"noopener\">🔵BOTONES MÁGICOS PARA APRENDER🟢</a></p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/symbaloo.png\" alt=\"NUESTRO SYMBALOO\" title=\"NUESTRO SYMBALOO\" width=\"767\" height=\"450\" style=\"display: block; margin-left: auto; margin-right: auto;\" />Victoria RB creado con Symbaloo.com</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozor97u-4eagxr222</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>NUESTRO RINCÓN DE APRENDIZAJES🌈🖍️</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>NUESTRO RINCÓN DE APRENDIZAJES🌈🖍️</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>NUESTRO RINCÓN DE APRENDIZAJES🌈🖍️</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor97u-4eagxr222</odePageId>
+      <odeBlockId>block-mord0itn-80idk76tj</odeBlockId>
+      <blockName>DESCUBRO QUE ES EL RESPETO🖍️🌈🤝</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97u-4eagxr222</odePageId>
+          <odeBlockId>block-mord0itn-80idk76tj</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-hj3z6a1g9</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>¡Hola chicos! 😄 Hoy vamos a descubrir juntos qué es el respeto y cómo podemos mostrarlo.</p>
+<p>1️⃣ Primero, tendremos una conversación guiada durante unos 30 minutos 🗣️✨. Hablaremos de acciones respetuosas, como ayudar, escuchar a los amigos o cuidar las cosas del aula 💖.</p>
+<p>2️⃣ Después, cada uno elegirá imágenes de Pictogramas ARASAAC 🖼️ muy claras y sencillas que representen esas acciones respetuosas.</p>
+<p>3️⃣ Juntas todas las imágenes formarán un gran mural del respeto 🌈🤗 que mostrará todo lo que vamos aprendiendo. </p>
+<p>💡 Recuerda:</p>
+<ul style="list-style-type: disc;">
+<li>Escucha a tus compañeros 👂🤝</li>
+<li>Elige imágenes que muestren respeto 🖼️💖</li>
+<li>Diviértete creando tu parte del mural 😄🎨</li>
+<li>¡Vamos a hacer un mural lleno de colores y respeto! 🌟🖍️🎉</li>
+</ul>]]></htmlView>
+          <jsonProperties><![CDATA[{"questionsData":[{"activityType":"dropdown","baseText":"<ul>\n<li>Escucha a tus amigos 👂🤝 y espera tu turno</li>\n<li>Elige pictogramas que muestren respeto 🖼️💖</li>\n<li>Diviértete creando tu parte del mural 🌈🖍️🎨</li>\n<li>Mira cómo todas las imágenes juntas forman nuestro gran mural del respeto ✨🤗</li>\n</ul>","wrongAnswersValue":""}],"eXeFormInstructions":"<p>¡Hola chicos! 😄 Hoy vamos a descubrir juntos qué es el respeto y cómo podemos mostrarlo.</p>\n<p>1️⃣ Primero, tendremos una conversación guiada durante unos 30 minutos 🗣️✨. Hablaremos de acciones respetuosas, como ayudar, escuchar a los amigos o cuidar las cosas del aula 💖.</p>\n<p>2️⃣ Después, cada uno elegirá imágenes de Pictogramas ARASAAC 🖼️ muy claras y sencillas que representen esas acciones respetuosas.</p>\n<p>3️⃣ Juntas todas las imágenes formarán un gran mural del respeto 🌈🤗 que mostrará todo lo que vamos aprendiendo. </p>\n<p>💡 Recuerda:</p>\n<ul style=\"list-style-type: disc;\">\n<li>Escucha a tus compañeros 👂🤝</li>\n<li>Elige imágenes que muestren respeto 🖼️💖</li>\n<li>Diviértete creando tu parte del mural 😄🎨</li>\n<li>¡Vamos a hacer un mural lleno de colores y respeto! 🌟🖍️🎉</li>\n</ul>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozor97u-4eagxr222</odePageId>
+      <odeBlockId>block-mord0itn-nj2snvuci</odeBlockId>
+      <blockName>EL RESPETO SUENA🎶</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97u-4eagxr222</odePageId>
+          <odeBlockId>block-mord0itn-nj2snvuci</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-yre2r5nd8</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>¡Vamos a crear un ritmo juntos!🥁🎵</p>
+<p>Cada uno va a aportar un sonido:</p>
+<p>Pueden usar un instrumento musical (como tambor, maraca o pandereta)<br />O usar sonidos corporales (palmas 👏, pies 🦶, chasquidos de dedos 🤏)<br />Respetamos los turnos:</p>
+<p>Solo toca tu sonido cuando sea tu turno<br />Así todos podemos escuchar y la secuencia suena bonita 🎶<br />Creamos una secuencia rítmica:</p>
+<p>Vamos a repetir los sonidos en orden, uno tras otro<br />Escucharemos cómo nuestro ritmo suena como una gran canción hecha entre todos 🌟<br />Después lo llevamos al ordenador:</p>
+<p>Vamos a usar una herramienta llamada Chrome Music Lab – Rhythm 💻🎨<br />Allí podremos dibujar nuestros ritmos con iconos y colores, y escuchar cómo suenan<br />Será como ver nuestra música cobrar vida en la pantalla 🌈🥁<br />¡Va a ser muy divertido crear, escuchar y ver nuestro ritmo juntos! 😄✨</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"questionsData":[{"activityType":"dropdown","baseText":"<p>Recuerda tu turno 👦👧 y el sonido que vas a aportar 🥁👏<br/>Haz tu ritmo con el instrumento o tu cuerpo y escucha a tus compañeros🎶</p>","wrongAnswersValue":""}],"eXeFormInstructions":"<p>¡Vamos a crear un ritmo juntos!🥁🎵</p>\n<p>Cada uno va a aportar un sonido:</p>\n<p>Pueden usar un instrumento musical (como tambor, maraca o pandereta)<br />O usar sonidos corporales (palmas 👏, pies 🦶, chasquidos de dedos 🤏)<br />Respetamos los turnos:</p>\n<p>Solo toca tu sonido cuando sea tu turno<br />Así todos podemos escuchar y la secuencia suena bonita 🎶<br />Creamos una secuencia rítmica:</p>\n<p>Vamos a repetir los sonidos en orden, uno tras otro<br />Escucharemos cómo nuestro ritmo suena como una gran canción hecha entre todos 🌟<br />Después lo llevamos al ordenador:</p>\n<p>Vamos a usar una herramienta llamada Chrome Music Lab – Rhythm 💻🎨<br />Allí podremos dibujar nuestros ritmos con iconos y colores, y escuchar cómo suenan<br />Será como ver nuestra música cobrar vida en la pantalla 🌈🥁<br />¡Va a ser muy divertido crear, escuchar y ver nuestro ritmo juntos! 😄✨</p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozor97u-4eagxr222</odePageId>
+      <odeBlockId>block-mord0itn-f3km4lmym</odeBlockId>
+      <blockName>HISTORIAS QUE RESPETAN📖🤹‍♂️💖</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97u-4eagxr222</odePageId>
+          <odeBlockId>block-mord0itn-f3km4lmym</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-s1skpd2if</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>😄 Hoy vamos a descubrir el respeto con un cuento multicultural y mucha diversión.</p>
+<p>1️⃣ Primero, escucharemos la lectura de un cuento que habla sobre respeto y situaciones donde podemos respetar o faltar al respeto 📖✨.</p>
+<p>2️⃣ Después, vamos a dramatizar lo que pasa en el cuento usando marionetas o títeres 🎭🤹‍♀️. Cada uno podrá actuar y representar su personaje.</p>
+<p>3️⃣ Cuando hagamos las dramatizaciones, vamos a capturar una foto del “momento respetuoso” 📸💖 para recordar nuestras buenas acciones.</p>
+<p>4️⃣ Podemos usar la cámara de ClassDojo o la cámara de la tablet si ClassDojo no está disponible 💻📱.</p>
+<p><em>¡Vamos a divertirnos y aprender a respetarnos entre todos!</em> 🌈🤗”</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"questionsData":[{"activityType":"dropdown","baseText":"<p>Escucha el cuento y observa las situaciones de respeto 📖💖</p>","wrongAnswersValue":""}],"eXeFormInstructions":"<p>😄 Hoy vamos a descubrir el respeto con un cuento multicultural y mucha diversión.</p>\n<p>1️⃣ Primero, escucharemos la lectura de un cuento que habla sobre respeto y situaciones donde podemos respetar o faltar al respeto 📖✨.</p>\n<p>2️⃣ Después, vamos a dramatizar lo que pasa en el cuento usando marionetas o títeres 🎭🤹‍♀️. Cada uno podrá actuar y representar su personaje.</p>\n<p>3️⃣ Cuando hagamos las dramatizaciones, vamos a capturar una foto del “momento respetuoso” 📸💖 para recordar nuestras buenas acciones.</p>\n<p>4️⃣ Podemos usar la cámara de ClassDojo o la cámara de la tablet si ClassDojo no está disponible 💻📱.</p>\n<p><em>¡Vamos a divertirnos y aprender a respetarnos entre todos!</em> 🌈🤗”</p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozor97u-4eagxr222</odePageId>
+      <odeBlockId>block-mord0itn-a0k5cdzm7</odeBlockId>
+      <blockName>PALABRAS QUE CUIDAN 💖🖍️🌈</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97u-4eagxr222</odePageId>
+          <odeBlockId>block-mord0itn-a0k5cdzm7</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-488s7ov5o</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Hoy vamos a crear nuestro mini diccionario del respeto con palabras amables que cuidan nuestros sentimientos.</p>
+<p>1️⃣ Primero, vamos a buscar palabras bonitas como: gracias, por favor, ayudar, compartir, respeto, perdón… 📖✨.<br />2️⃣ El docente proyectará los pictogramas de ARASAAC 🖼️ para que veamos cómo se representan estas palabras.<br />3️⃣ En pequeños grupos, cada uno elegirá:</p>
+<ul>
+<li>La palabra que quiere incluir en nuestro diccionario 💖</li>
+<li>El pictograma que mejor la representa 🖼️</li>
+<li>Si procede, la palabra también en árabe para mostrarla a todos 🌍<br />4️⃣ Finalmente, iremos armando nuestro mini diccionario del respeto con todas las palabras y pictogramas elegidos 🌈🤗.</li>
+</ul>
+<p>¡Será divertido ver cómo entre todos cuidamos las palabras y aprendemos a respetarnos! 🌟🖍️”</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"questionsData":[{"activityType":"dropdown","baseText":"<p>¡Hagamos juntos nuestro diccionario del respeto 🌈🖍️!</p>","wrongAnswersValue":""}],"eXeFormInstructions":"<p>Hoy vamos a crear nuestro mini diccionario del respeto con palabras amables que cuidan nuestros sentimientos.</p>\n<p>1️⃣ Primero, vamos a buscar palabras bonitas como: gracias, por favor, ayudar, compartir, respeto, perdón… 📖✨.<br />2️⃣ El docente proyectará los pictogramas de ARASAAC 🖼️ para que veamos cómo se representan estas palabras.<br />3️⃣ En pequeños grupos, cada uno elegirá:</p>\n<ul>\n<li>La palabra que quiere incluir en nuestro diccionario 💖</li>\n<li>El pictograma que mejor la representa 🖼️</li>\n<li>Si procede, la palabra también en árabe para mostrarla a todos 🌍<br />4️⃣ Finalmente, iremos armando nuestro mini diccionario del respeto con todas las palabras y pictogramas elegidos 🌈🤗.</li>\n</ul>\n<p>¡Será divertido ver cómo entre todos cuidamos las palabras y aprendemos a respetarnos! 🌟🖍️”</p>"}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozor97u-4eagxr222</odePageId>
+      <odeBlockId>block-mord0itn-07w8h16if</odeBlockId>
+      <blockName>MANOS QUE RESPETAN🖐️💖🌈</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97u-4eagxr222</odePageId>
+          <odeBlockId>block-mord0itn-07w8h16if</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-yaydk189x</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Vamos a crear un collage artístico con nuestras manos para mostrar acciones respetuosas.</p>
+<p>1️⃣ Primero, vamos a calcar nuestras manos en papel ✋🖍️.<br />2️⃣ Luego, decoraremos la mano con dibujos o recortes que representen acciones de respeto, como ayudar, escuchar, compartir o cuidar a los demás 💖🎨.<br />3️⃣ Después, uniremos todas nuestras manos para crear un gran mural grupal 🌈🤗.<br />4️⃣ Finalmente, nuestro mural se mostrará en Padlet 💻✨, una herramienta digital muy visual donde todos podrán ver el trabajo del grupo.</p>
+<p>En esta actividad, vosotros no tocaréis el ordenador, pero podréis ver vuestro mural digital y disfrutarlo junto a los compañeros.<br />¡Vamos a llenar nuestro mural de manos y respeto! 🌟🖐️🎉</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"questionsData":[{"activityType":"dropdown","baseText":"<p>Juntas todas las manos para el mural grupal 🌈🤗</p>","wrongAnswersValue":""}],"eXeFormInstructions":"<p>Vamos a crear un collage artístico con nuestras manos para mostrar acciones respetuosas.</p>\n<p>1️⃣ Primero, vamos a calcar nuestras manos en papel ✋🖍️.<br />2️⃣ Luego, decoraremos la mano con dibujos o recortes que representen acciones de respeto, como ayudar, escuchar, compartir o cuidar a los demás 💖🎨.<br />3️⃣ Después, uniremos todas nuestras manos para crear un gran mural grupal 🌈🤗.<br />4️⃣ Finalmente, nuestro mural se mostrará en Padlet 💻✨, una herramienta digital muy visual donde todos podrán ver el trabajo del grupo.</p>\n<p>En esta actividad, vosotros no tocaréis el ordenador, pero podréis ver vuestro mural digital y disfrutarlo junto a los compañeros.<br />¡Vamos a llenar nuestro mural de manos y respeto! 🌟🖐️🎉</p>"}]]></jsonProperties>
+          <odeComponentsOrder>4</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozor97u-4eagxr222</odePageId>
+      <odeBlockId>block-mord0itn-zopahuvk0</odeBlockId>
+      <blockName>FOTOGRAFÍO EL RESPETO📸🤗</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97u-4eagxr222</odePageId>
+          <odeBlockId>block-mord0itn-zopahuvk0</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-xzzxddbi5</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>“¡Hola chicos! 😄 Hoy vamos a buscar y fotografiar el respeto.</p>
+<p>1️⃣ Vamos a usar una tablet con cámara 📱📸.<br />2️⃣ Observamos bien el aula y el cole para encontrar acciones respetuosas, como ayudar, compartir, cuidar el material o escuchar a los amigos 💖🤝.<br />3️⃣ Cuando veamos una acción de respeto, hacemos una foto 📸✨.<br />4️⃣ Después, la seño guardará todas las fotos en un álbum digital en Google Fotos 💻🌈, donde podremos verlas juntas.</p>
+<p>📌 Recuerda:</p>
+<ul>
+<li>Miramos con atención 👀</li>
+<li>Respetamos a los compañeros 🤗</li>
+<li>Usamos la tablet con cuidado 🔒</li>
+</ul>
+<p><em>¡Vamos a llenar nuestro álbum de fotos bonitas y respetuosas!</em> 🌟📸💖</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"questionsData":[{"activityType":"dropdown","baseText":"<p>Busca una acción de respeto 👀💖</p>","wrongAnswersValue":""}],"eXeFormInstructions":"<p>“¡Hola chicos! 😄 Hoy vamos a buscar y fotografiar el respeto.</p>\n<p>1️⃣ Vamos a usar una tablet con cámara 📱📸.<br />2️⃣ Observamos bien el aula y el cole para encontrar acciones respetuosas, como ayudar, compartir, cuidar el material o escuchar a los amigos 💖🤝.<br />3️⃣ Cuando veamos una acción de respeto, hacemos una foto 📸✨.<br />4️⃣ Después, la seño guardará todas las fotos en un álbum digital en Google Fotos 💻🌈, donde podremos verlas juntas.</p>\n<p>📌 Recuerda:</p>\n<ul>\n<li>Miramos con atención 👀</li>\n<li>Respetamos a los compañeros 🤗</li>\n<li>Usamos la tablet con cuidado 🔒</li>\n</ul>\n<p><em>¡Vamos a llenar nuestro álbum de fotos bonitas y respetuosas!</em> 🌟📸💖</p>"}]]></jsonProperties>
+          <odeComponentsOrder>5</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozor97u-4eagxr222</odePageId>
+      <odeBlockId>block-mord0itn-7nf4j0m8q</odeBlockId>
+      <blockName>NUESTRO LEMA RESPET-ARTE 🎨💖🌈</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97u-4eagxr222</odePageId>
+          <odeBlockId>block-mord0itn-7nf4j0m8q</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-mvmcxm3w1</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Vamos a crear nuestro lema de la clase, una frase bonita que nos recuerde cómo queremos tratarnos cada día.</p>
+<p>1️⃣ Primero, vamos a pensar juntos palabras y frases de respeto, como:<br />‘aquí tratamos bien’, ‘en esta clase nos respetamos’, ‘manos que ayudan’ 💖🤝</p>
+<p>2️⃣ La seño irá escribiendo vuestras ideas y las veremos en la pantalla con ayuda de Canva 💻✨</p>
+<p>3️⃣ Después, entre todos, vamos a votar o unir palabras para elegir nuestro lema RespetARTE 🌟</p>
+<p>4️⃣ Cuando ya tengamos el lema, vamos a crear un cartel para la puerta del aula usando cartulina, plantillas y rotuladores 🖍️📄</p>
+<p>5️⃣ Colgaremos el cartel en la puerta para recordar cada día que en esta clase nos respetamos 🌈🤗</p>
+<p><em>¡Será un lema hecho entre todos y para todos!</em> 🎉💖</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"questionsData":[{"activityType":"dropdown","baseText":"<p>Piensa una frase bonita 💖 y vamos a decorar el cartel de nuestra clase 🎨🖍️</p>","wrongAnswersValue":""}],"eXeFormInstructions":"<p>Vamos a crear nuestro lema de la clase, una frase bonita que nos recuerde cómo queremos tratarnos cada día.</p>\n<p>1️⃣ Primero, vamos a pensar juntos palabras y frases de respeto, como:<br />‘aquí tratamos bien’, ‘en esta clase nos respetamos’, ‘manos que ayudan’ 💖🤝</p>\n<p>2️⃣ La seño irá escribiendo vuestras ideas y las veremos en la pantalla con ayuda de Canva 💻✨</p>\n<p>3️⃣ Después, entre todos, vamos a votar o unir palabras para elegir nuestro lema RespetARTE 🌟</p>\n<p>4️⃣ Cuando ya tengamos el lema, vamos a crear un cartel para la puerta del aula usando cartulina, plantillas y rotuladores 🖍️📄</p>\n<p>5️⃣ Colgaremos el cartel en la puerta para recordar cada día que en esta clase nos respetamos 🌈🤗</p>\n<p><em>¡Será un lema hecho entre todos y para todos!</em> 🎉💖</p>"}]]></jsonProperties>
+          <odeComponentsOrder>6</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozor97u-4eagxr222</odePageId>
+      <odeBlockId>block-mord0itn-ksl5rgqiy</odeBlockId>
+      <blockName>EXPO RESPET-ARTE 🌈🏛️💖</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>7</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97u-4eagxr222</odePageId>
+          <odeBlockId>block-mord0itn-ksl5rgqiy</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-jzkswc86p</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>😄 Hemos llegado al final de nuestro proyecto y ahora vamos a hacer nuestra gran EXPO RespetARTE.</p>
+<p>1️⃣ Primero, vamos a preparar nuestra exposición con todos los trabajos que hemos hecho:</p>
+<ul style="list-style-type: square;">
+<li>Fotografías de Fotografío el respeto 📸</li>
+<li>Collages de Manos que respetan ✋💖</li>
+<li>Nuestro diccionario de Palabras que cuidan 📖</li>
+<li>El cartel y lema RespetARTE 🎨✨</li>
+</ul>
+<p>2️⃣ La seño creará un mural digital en Padlet 💻🌈 con diferentes columnas para cada actividad. Allí irá subiendo fotos, escaneos y trabajos para que podamos verlos todos juntos.</p>
+<p>3️⃣ Después, haremos una exposición oral guiada 🗣️🤗.<br />Cada niño o grupo se pondrá delante del Padlet proyectado y contará:</p>
+<ul>
+<li>Qué hizo</li>
+<li>Qué representa su trabajo</li>
+<li>Qué aprendió sobre el respeto y los buenos modales 💖</li>
+</ul>
+<p><br />4️⃣ Usaremos fichas visuales de apoyo 🖼️✨ que nos ayudarán a recordar las ideas, las palabras y lo que queremos contar.</p>
+<p><em>¡Será una exposición muy especial para mostrar todo lo que hemos aprendido sobre el respeto!</em> 🌟🤗🎉”</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"questionsData":[{"activityType":"dropdown","baseText":"<p>Cuenta qué hiciste y qué aprendiste 🗣️💖 y escucha y respeta a tus compañeros 🤗🌈</p>","wrongAnswersValue":""}],"eXeFormInstructions":"<p>😄 Hemos llegado al final de nuestro proyecto y ahora vamos a hacer nuestra gran EXPO RespetARTE.</p>\n<p>1️⃣ Primero, vamos a preparar nuestra exposición con todos los trabajos que hemos hecho:</p>\n<ul style=\"list-style-type: square;\">\n<li>Fotografías de Fotografío el respeto 📸</li>\n<li>Collages de Manos que respetan ✋💖</li>\n<li>Nuestro diccionario de Palabras que cuidan 📖</li>\n<li>El cartel y lema RespetARTE 🎨✨</li>\n</ul>\n<p>2️⃣ La seño creará un mural digital en Padlet 💻🌈 con diferentes columnas para cada actividad. Allí irá subiendo fotos, escaneos y trabajos para que podamos verlos todos juntos.</p>\n<p>3️⃣ Después, haremos una exposición oral guiada 🗣️🤗.<br />Cada niño o grupo se pondrá delante del Padlet proyectado y contará:</p>\n<ul>\n<li>Qué hizo</li>\n<li>Qué representa su trabajo</li>\n<li>Qué aprendió sobre el respeto y los buenos modales 💖</li>\n</ul>\n<p><br />4️⃣ Usaremos fichas visuales de apoyo 🖼️✨ que nos ayudarán a recordar las ideas, las palabras y lo que queremos contar.</p>\n<p><em>¡Será una exposición muy especial para mostrar todo lo que hemos aprendido sobre el respeto!</em> 🌟🤗🎉”</p>"}]]></jsonProperties>
+          <odeComponentsOrder>7</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozor97z-7fr5nvk4o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Secuencia didáctica III 📋</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia didáctica III 📋</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia didáctica III 📋</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor97z-7fr5nvk4o</odePageId>
+      <odeBlockId>block-mord0itn-rc39ptp86</odeBlockId>
+      <blockName>Mapa mental de organización: Emoji del Respeto</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor97z-7fr5nvk4o</odePageId>
+          <odeBlockId>block-mord0itn-rc39ptp86</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-1c6ik9zzp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la organización de la actividad ‘<em><strong>Creación del Emoji del Respeto</strong>’</em>  se ha utilizado la herramienta digital <em>MindMeister</em>, que permite estructurar visualmente los distintos elementos que intervienen en la sesión.</p>
+<p>El mapa mental recoge la planificación temporal, las herramientas digitales empleadas, la metodología de trabajo del alumnado, la distribución del aula, así como los recursos técnicos y materiales necesarios.</p>
+<p>Este tipo de organización visual facilita la comprensión de la actividad, la anticipación de tareas y la optimización del tiempo en el aula, resultando especialmente adecuada para alumnado de 1.º de Primaria y para grupos con bajo nivel de competencia académica o digital</p>
+<p><img src="{{context_path}}/content/resources/mapa_mental_para_organizar_actividad.png" alt="MAPA MENTAL PARA ORGANIZAR ACTIVIDAD" title="MAPA MENTAL PARA ORGANIZAR ACTIVIDAD" width="1084" height="539" style="display: block; margin-left: auto; margin-right: auto;" />Creado por Victoria RB con MindMeister.com</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mord0itn-1c6ik9zzp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la organización de la actividad ‘<em><strong>Creación del Emoji del Respeto</strong>’</em>  se ha utilizado la herramienta digital <em>MindMeister</em>, que permite estructurar visualmente los distintos elementos que intervienen en la sesión.</p>\n<p>El mapa mental recoge la planificación temporal, las herramientas digitales empleadas, la metodología de trabajo del alumnado, la distribución del aula, así como los recursos técnicos y materiales necesarios.</p>\n<p>Este tipo de organización visual facilita la comprensión de la actividad, la anticipación de tareas y la optimización del tiempo en el aula, resultando especialmente adecuada para alumnado de 1.º de Primaria y para grupos con bajo nivel de competencia académica o digital</p>\n<p><img src=\"{{context_path}}/content/resources/mapa_mental_para_organizar_actividad.png\" alt=\"MAPA MENTAL PARA ORGANIZAR ACTIVIDAD\" title=\"MAPA MENTAL PARA ORGANIZAR ACTIVIDAD\" width=\"1084\" height=\"539\" style=\"display: block; margin-left: auto; margin-right: auto;\" />Creado por Victoria RB con MindMeister.com</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozor980-0j1cmfi97</odePageId>
+  <odeParentPageId>page-mozor97z-7fr5nvk4o</odeParentPageId>
+  <pageName>Creamos el Emoji del Respeto 🧠🎨💖</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Creamos el Emoji del Respeto 🧠🎨💖</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Creamos el Emoji del Respeto 🧠🎨💖</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor980-0j1cmfi97</odePageId>
+      <odeBlockId>block-mord0itn-5rw8429ah</odeBlockId>
+      <blockName>Creamos el Emoji del Respeto 🧠🎨💖</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor980-0j1cmfi97</odePageId>
+          <odeBlockId>block-mord0itn-5rw8429ah</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-aff0owogc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este dibujo con ramas nos ayuda a organizarnos para crear nuestro Emoji del Respeto 😊💖</p>
+<p>Aquí vemos cuánto tiempo tenemos ⏰, qué materiales vamos a usar 🖍️📱, cómo trabajamos juntos 👧👦 y dónde nos sentamos en clase🪑</p>
+<p>El mapa nos dice paso a paso qué vamos a hacer para crear nuestro emoji bonito y respetuoso 🎨✨<br />Así todo es más fácil y nos ayudamos entre todos 🤝🌈</p>
+<p>Cuando nos organizamos bien, crear es más fácil y más divertido</p>
+<p>👇 Pulsa aquí para entrar 🌈</p>
+<p><a href="https://mm.tt/map/3982638906?t=yYUNFqwP0J" target="_blank" title="" rel="noopener">CREAMOS NUESTRO EMOJI DEL RESPETO😊💖</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mord0itn-aff0owogc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este dibujo con ramas nos ayuda a organizarnos para crear nuestro Emoji del Respeto 😊💖</p>\n<p>Aquí vemos cuánto tiempo tenemos ⏰, qué materiales vamos a usar 🖍️📱, cómo trabajamos juntos 👧👦 y dónde nos sentamos en clase🪑</p>\n<p>El mapa nos dice paso a paso qué vamos a hacer para crear nuestro emoji bonito y respetuoso 🎨✨<br />Así todo es más fácil y nos ayudamos entre todos 🤝🌈</p>\n<p>Cuando nos organizamos bien, crear es más fácil y más divertido</p>\n<p>👇 Pulsa aquí para entrar 🌈</p>\n<p><a href=\"https://mm.tt/map/3982638906?t=yYUNFqwP0J\" target=\"_blank\" title=\"\" rel=\"noopener\">CREAMOS NUESTRO EMOJI DEL RESPETO😊💖</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozor981-5svtgl8c6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Secuencia didáctica IV📋</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia didáctica IV📋</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Secuencia didáctica IV📋</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor981-5svtgl8c6</odePageId>
+      <odeBlockId>block-mord0itn-5c5dojs3h</odeBlockId>
+      <blockName>ELEGIMOS Y CREAMOS INSTRUMENTOS DE EVALUACIÓN📝</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor981-5svtgl8c6</odePageId>
+          <odeBlockId>block-mord0itn-5c5dojs3h</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-3fwizg3r2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El proyecto <em><strong>"RespetARTE: el respeto como arte"</strong></em> que estoy llevando a cabo, busca desarrollar en mis alumnos de primero de primaria habilidades de convivencia, comunicación respetuosa y expresión artística. Dado que el grupo, además de que son aún pequeños, como os he comentado anteriormente está compuesto por 6 niños, de los cuales 3 son de origen marroquí y presentan bajo rendimiento académico, es fundamental utilizar instrumentos de evaluación flexibles, visuales, accesibles, y que permitan valorar tanto el proceso como el logro. Por ello, he decidido utilizar <em>tres instrumentos de evaluación</em> adecuados para este contexto: una <strong>lista de cotejo</strong>, una <strong>rúbrica visual </strong>(realizada con la herramienta digital de CANVA) y un <strong>diario de observación del docente</strong> (del cual doy detalle a continuación también). </p>
+<p style="text-align: justify;">   <strong> 1. RÚBRICA VISUAL DE PROGRESO</strong> (realizado con la herramienta digital <em>CANVA</em>, ver enlace a continuación) </p>
+<p style="text-align: justify;"><em>Descripción del instrumento</em></p>
+<p style="text-align: justify;">La rúbrica visual permite evaluar conductas y procesos usando imágenes o iconos en lugar de textos largos. Es ideal para alumnado con dificultades lingüísticas o de comprensión lectora.<br />Evalúa aspectos clave del proyecto relacionados con el respeto, la participación y la expresión artística.</p>
+<p style="text-align: justify;"><em>JUSTIFICACIÓN</em></p>
+<p style="text-align: justify;">·        Facilita la comprensión a alumnos con bajo nivel de español.</p>
+<p style="text-align: justify;">·        Permite ofrecer retroalimentación clara y frecuente.</p>
+<p style="text-align: justify;">·        Favorece la autoevaluación sencilla y accesible.</p>
+<p style="text-align: justify;"><em>¿Cómo podríamos aplicarla?</em></p>
+<p style="text-align: justify;">Al finalizar cada sesión del proyecto.<br />Se puede presentar en cartulina, en el pizarrón digital o en tarjetas individuales.<br />Los alumnos eligen la carita que creen que corresponde, y luego el docente confirma o negocia la evaluación.<br /><a href="https://canva.link/olq87uj6nwl3xbs" target="_blank" title="" rel="noopener">RUBRICA VISUAL</a></p>
+<p style="text-align: justify;">Materiales gráficos Victoria RB creados con Canva.com</p>
+<p style="text-align: justify;"><strong> 2. DIARIO DE OBSERVACIÓN</strong></p>
+<p style="text-align: justify;"><em>Descripción del instrumento:</em></p>
+<p style="text-align: justify;">Como bien sabemos, el diario de observación es un registro sistemático donde el docente anota comportamientos, avances y dificultades observados durante las actividades del proyecto. Puede incluir descripciones, fechas y ejemplos.</p>
+<p style="text-align: justify;"><em> JUSTIFICACIÓN: </em></p>
+<p style="text-align: justify;">·        Permite recoger información cualitativa rica, especialmente útil en grupos pequeños.</p>
+<p style="text-align: justify;">·        Capta aspectos no visibles en evaluaciones escritas (actitudes, comunicación, integración, esfuerzo).</p>
+<p style="text-align: justify;">·        Es flexible y se adapta a la diversidad cultural y lingüística.</p>
+<p style="text-align: justify;"><em>ASPECTOS QUE SE PUEDEN OBSERVAR</em>: </p>
+<p style="text-align: justify;">1.     Interacciones sociales (¿coopera?, ¿respeta turnos?, ¿ayuda a otros?)</p>
+<p style="text-align: justify;">2.     Comunicación verbal y no verbal, especialmente relevante para alumnado árabe.</p>
+<p style="text-align: justify;">3.     Motivación y esfuerzo en tareas artísticas.</p>
+<p style="text-align: justify;">4.     Autonomía y seguimiento de rutinas.</p>
+<p style="text-align: justify;">5.     Integración emocional (seguridad, participación, frustración)</p>
+<p style="text-align: justify;"><em>FORMATO PARA EL DIARIO DE OBSERVACIÓN:</em> </p>
+<p style="text-align: justify;">Fecha:<br />Actividad del proyecto: (ej. creación del emoji de respeto)<br />Alumno:<br />Observaciones:</p>
+<p style="text-align: justify;">·        Comportamiento social:</p>
+<p style="text-align: justify;">·        Lenguaje:</p>
+<p style="text-align: justify;">·        Participación en la actividad artística:</p>
+<p style="text-align: justify;">·        Dificultades observadas:</p>
+<p style="text-align: justify;">·        Logros destacados:</p>
+<p style="text-align: justify;"><br />Acciones del docente / apoyo ofrecido:<br />Próximos pasos:</p>
+<p style="text-align: justify;"><em>¿Cómo podríamos aplicarlo?</em></p>
+<p style="text-align: justify;">Registrar solo momentos clave, no toda la sesión.<br />Utilizar un cuaderno o formato digital.<br />Revisar semanalmente para detectar patrones y ajustar estrategias.</p>
+<p style="text-align: justify;"><strong>3. LISTA DE COTEJO PICTOGRÁFICA</strong> (ver documento adjunto)</p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/lista_de_cotejo_pictogr_fica.png" alt="LISTA DE COTEJO PICTOGRÁFICA" title="LISTA DE COTEJO PICTOGRÁFICA" width="600" height="350" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: justify;">Materiales gráficos Victoria RB </p>
+<p style="text-align: justify;"><em>Descripción del instrumento:</em></p>
+<p style="text-align: justify;">Una lista de cotejo pictográfica es una herramienta de evaluación que utiliza dibujos, símbolos o imágenes en lugar de solo texto.</p>
+<p style="text-align: justify;"><em>JUSTIFICACIÓN:</em></p>
+<p style="text-align: justify;">Su uso se justifica especialmente en 1º de primaria con bajo nivel académico porque:</p>
+<ul style="text-align: justify;">
+<li>Facilita la comprensión: Los niños que aún no leen o tienen dificultades pueden entender visualmente qué se espera de ellos.</li>
+<li>Favorece la autonomía: al reconocer imágenes, los estudiantes pueden auto-verificar su desempeño (por ejemplo: una imagen de un lápiz → “¿Traje mis materiales?”).</li>
+<li>Reduce la ansiedad: las imágenes hacen que la evaluación sea menos intimidante y más amigable.</li>
+<li>Apoya la atención y memoria: los pictogramas ayudan a recordar rutinas, comportamientos o pasos de una actividad.</li>
+<li>Incluyente y accesible: funciona para estudiantes con rezago académico, necesidades educativas o que no hablan español como lengua materna.</li>
+</ul>
+<p style="text-align: justify;"><em>ASPECTOS QUE SE PUEDEN OBSERV</em>AR:</p>
+<p style="text-align: justify;">Esta herramienta permite observar aspectos como rutinas, comportamiento, habilidades socioemocionales y tareas académicas básicas.</p>
+<p style="text-align: justify;"><em>¿Cómo podríamos aplicarla?</em></p>
+<p style="text-align: justify;">Su aplicación consiste en seleccionar indicadores simples, representarlos con pictogramas, explicar su uso, aplicarla diariamente y ofrecer retroalimentación positiva que favorezca el desarrollo integral del estudiante.</p>
+<p style="text-align: justify;"><em>CONCLUSIÓN:</em> Viendo que me he extendido en la explicación detallada de cada uno de los instrumentos que he llevado a cabo para la evaluación, he pensado en resumir en estas líneas y simplemente comentar que los instrumentos propuestos, rúbrica visual, diario de observación y lista de cotejo, nos permiten evaluar de forma integral las competencias que trabaja mi proyecto RespetARTE, adaptándose a las necesidades de un grupo pequeño, diverso y con dificultades de aprendizaje. Los tres son fáciles de aplicar, motivadores y adecuados para valorar tanto el proceso como el resultado, garantizando una evaluación justa e inclusiva.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mord0itn-3fwizg3r2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El proyecto <em><strong>\"RespetARTE: el respeto como arte\"</strong></em> que estoy llevando a cabo, busca desarrollar en mis alumnos de primero de primaria habilidades de convivencia, comunicación respetuosa y expresión artística. Dado que el grupo, además de que son aún pequeños, como os he comentado anteriormente está compuesto por 6 niños, de los cuales 3 son de origen marroquí y presentan bajo rendimiento académico, es fundamental utilizar instrumentos de evaluación flexibles, visuales, accesibles, y que permitan valorar tanto el proceso como el logro. Por ello, he decidido utilizar <em>tres instrumentos de evaluación</em> adecuados para este contexto: una <strong>lista de cotejo</strong>, una <strong>rúbrica visual </strong>(realizada con la herramienta digital de CANVA) y un <strong>diario de observación del docente</strong> (del cual doy detalle a continuación también). </p>\n<p style=\"text-align: justify;\">   <strong> 1. RÚBRICA VISUAL DE PROGRESO</strong> (realizado con la herramienta digital <em>CANVA</em>, ver enlace a continuación) </p>\n<p style=\"text-align: justify;\"><em>Descripción del instrumento</em></p>\n<p style=\"text-align: justify;\">La rúbrica visual permite evaluar conductas y procesos usando imágenes o iconos en lugar de textos largos. Es ideal para alumnado con dificultades lingüísticas o de comprensión lectora.<br />Evalúa aspectos clave del proyecto relacionados con el respeto, la participación y la expresión artística.</p>\n<p style=\"text-align: justify;\"><em>JUSTIFICACIÓN</em></p>\n<p style=\"text-align: justify;\">·        Facilita la comprensión a alumnos con bajo nivel de español.</p>\n<p style=\"text-align: justify;\">·        Permite ofrecer retroalimentación clara y frecuente.</p>\n<p style=\"text-align: justify;\">·        Favorece la autoevaluación sencilla y accesible.</p>\n<p style=\"text-align: justify;\"><em>¿Cómo podríamos aplicarla?</em></p>\n<p style=\"text-align: justify;\">Al finalizar cada sesión del proyecto.<br />Se puede presentar en cartulina, en el pizarrón digital o en tarjetas individuales.<br />Los alumnos eligen la carita que creen que corresponde, y luego el docente confirma o negocia la evaluación.<br /><a href=\"https://canva.link/olq87uj6nwl3xbs\" target=\"_blank\" title=\"\" rel=\"noopener\">RUBRICA VISUAL</a></p>\n<p style=\"text-align: justify;\">Materiales gráficos Victoria RB creados con Canva.com</p>\n<p style=\"text-align: justify;\"><strong> 2. DIARIO DE OBSERVACIÓN</strong></p>\n<p style=\"text-align: justify;\"><em>Descripción del instrumento:</em></p>\n<p style=\"text-align: justify;\">Como bien sabemos, el diario de observación es un registro sistemático donde el docente anota comportamientos, avances y dificultades observados durante las actividades del proyecto. Puede incluir descripciones, fechas y ejemplos.</p>\n<p style=\"text-align: justify;\"><em> JUSTIFICACIÓN: </em></p>\n<p style=\"text-align: justify;\">·        Permite recoger información cualitativa rica, especialmente útil en grupos pequeños.</p>\n<p style=\"text-align: justify;\">·        Capta aspectos no visibles en evaluaciones escritas (actitudes, comunicación, integración, esfuerzo).</p>\n<p style=\"text-align: justify;\">·        Es flexible y se adapta a la diversidad cultural y lingüística.</p>\n<p style=\"text-align: justify;\"><em>ASPECTOS QUE SE PUEDEN OBSERVAR</em>: </p>\n<p style=\"text-align: justify;\">1.     Interacciones sociales (¿coopera?, ¿respeta turnos?, ¿ayuda a otros?)</p>\n<p style=\"text-align: justify;\">2.     Comunicación verbal y no verbal, especialmente relevante para alumnado árabe.</p>\n<p style=\"text-align: justify;\">3.     Motivación y esfuerzo en tareas artísticas.</p>\n<p style=\"text-align: justify;\">4.     Autonomía y seguimiento de rutinas.</p>\n<p style=\"text-align: justify;\">5.     Integración emocional (seguridad, participación, frustración)</p>\n<p style=\"text-align: justify;\"><em>FORMATO PARA EL DIARIO DE OBSERVACIÓN:</em> </p>\n<p style=\"text-align: justify;\">Fecha:<br />Actividad del proyecto: (ej. creación del emoji de respeto)<br />Alumno:<br />Observaciones:</p>\n<p style=\"text-align: justify;\">·        Comportamiento social:</p>\n<p style=\"text-align: justify;\">·        Lenguaje:</p>\n<p style=\"text-align: justify;\">·        Participación en la actividad artística:</p>\n<p style=\"text-align: justify;\">·        Dificultades observadas:</p>\n<p style=\"text-align: justify;\">·        Logros destacados:</p>\n<p style=\"text-align: justify;\"><br />Acciones del docente / apoyo ofrecido:<br />Próximos pasos:</p>\n<p style=\"text-align: justify;\"><em>¿Cómo podríamos aplicarlo?</em></p>\n<p style=\"text-align: justify;\">Registrar solo momentos clave, no toda la sesión.<br />Utilizar un cuaderno o formato digital.<br />Revisar semanalmente para detectar patrones y ajustar estrategias.</p>\n<p style=\"text-align: justify;\"><strong>3. LISTA DE COTEJO PICTOGRÁFICA</strong> (ver documento adjunto)</p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/lista_de_cotejo_pictogr_fica.png\" alt=\"LISTA DE COTEJO PICTOGRÁFICA\" title=\"LISTA DE COTEJO PICTOGRÁFICA\" width=\"600\" height=\"350\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: justify;\">Materiales gráficos Victoria RB </p>\n<p style=\"text-align: justify;\"><em>Descripción del instrumento:</em></p>\n<p style=\"text-align: justify;\">Una lista de cotejo pictográfica es una herramienta de evaluación que utiliza dibujos, símbolos o imágenes en lugar de solo texto.</p>\n<p style=\"text-align: justify;\"><em>JUSTIFICACIÓN:</em></p>\n<p style=\"text-align: justify;\">Su uso se justifica especialmente en 1º de primaria con bajo nivel académico porque:</p>\n<ul style=\"text-align: justify;\">\n<li>Facilita la comprensión: Los niños que aún no leen o tienen dificultades pueden entender visualmente qué se espera de ellos.</li>\n<li>Favorece la autonomía: al reconocer imágenes, los estudiantes pueden auto-verificar su desempeño (por ejemplo: una imagen de un lápiz → “¿Traje mis materiales?”).</li>\n<li>Reduce la ansiedad: las imágenes hacen que la evaluación sea menos intimidante y más amigable.</li>\n<li>Apoya la atención y memoria: los pictogramas ayudan a recordar rutinas, comportamientos o pasos de una actividad.</li>\n<li>Incluyente y accesible: funciona para estudiantes con rezago académico, necesidades educativas o que no hablan español como lengua materna.</li>\n</ul>\n<p style=\"text-align: justify;\"><em>ASPECTOS QUE SE PUEDEN OBSERV</em>AR:</p>\n<p style=\"text-align: justify;\">Esta herramienta permite observar aspectos como rutinas, comportamiento, habilidades socioemocionales y tareas académicas básicas.</p>\n<p style=\"text-align: justify;\"><em>¿Cómo podríamos aplicarla?</em></p>\n<p style=\"text-align: justify;\">Su aplicación consiste en seleccionar indicadores simples, representarlos con pictogramas, explicar su uso, aplicarla diariamente y ofrecer retroalimentación positiva que favorezca el desarrollo integral del estudiante.</p>\n<p style=\"text-align: justify;\"><em>CONCLUSIÓN:</em> Viendo que me he extendido en la explicación detallada de cada uno de los instrumentos que he llevado a cabo para la evaluación, he pensado en resumir en estas líneas y simplemente comentar que los instrumentos propuestos, rúbrica visual, diario de observación y lista de cotejo, nos permiten evaluar de forma integral las competencias que trabaja mi proyecto RespetARTE, adaptándose a las necesidades de un grupo pequeño, diverso y con dificultades de aprendizaje. Los tres son fáciles de aplicar, motivadores y adecuados para valorar tanto el proceso como el resultado, garantizando una evaluación justa e inclusiva.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozor982-jfsz5ao4d</odePageId>
+  <odeParentPageId>page-mozor981-5svtgl8c6</odeParentPageId>
+  <pageName>Nuestros logros y avances 💖🖍️</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestros logros y avances 💖🖍️</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestros logros y avances 💖🖍️</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor982-jfsz5ao4d</odePageId>
+      <odeBlockId>block-mord0itn-o5mvwwhvm</odeBlockId>
+      <blockName>Nuestros logros y avances 💖🖍️</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor982-jfsz5ao4d</odePageId>
+          <odeBlockId>block-mord0itn-o5mvwwhvm</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-m1u2kug7a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En nuestro proyecto RespetARTE, vamos a aprender a respetarnos, crear arte y divertirnos juntos. Para saber cómo lo estamos haciendo, vamos a usar algunas formas muy fáciles y visuales:</p>
+<p><strong>1. Rúbrica visual de progreso</strong> 🖍️🙂😃<br />Qué es:<br />Es una tarjeta con caritas y dibujitos que nos ayuda a ver si estamos respetando, participando y creando nuestras obras de arte.</p>
+<p><em>Cómo funciona:</em></p>
+<ul>
+<li>Después de cada actividad, miramos la tarjeta.</li>
+<li>Cada uno elige la carita que cree que muestra cómo lo ha hecho.</li>
+<li>La maestra o maestro confirma o hablamos juntos sobre nuestra elección.</li>
+</ul>
+<p><em>Por qué nos sirve:</em></p>
+<ul>
+<li>Es fácil de entender aunque aún no sepamos leer mucho.</li>
+<li>Podemos ver nuestro progreso paso a paso.</li>
+<li>Nos ayuda a autoevaluarnos y saber qué podemos mejorar.</li>
+</ul>
+<p>Pulsa aquí para entrar🌈👉 <a href="https://canva.link/olq87uj6nwl3xbs">Rúbrica visual de progreso</a> 🖍️🙂😃</p>
+<p><strong>2. Diario de observación</strong> 📒👀<br /><em>Qué es:</em><br />Es como un diario secreto de la maestra o maestro, donde apunta cosas importantes de cómo estamos trabajando.</p>
+<p><em>Qué se observa:</em></p>
+<ul>
+<li>Cómo nos ayudamos y respetamos a los demás 🤝</li>
+<li>Cómo hablamos y nos comunicamos 🗣️👋</li>
+<li>Si ponemos esfuerzo en nuestras actividades artísticas 🎨</li>
+<li>Cómo seguimos rutinas y trabajamos solos o en grupo</li>
+<li>Cómo nos sentimos: felices, motivados, un poquito frustrados 😄😕</li>
+<li>Cómo nos ayuda:</li>
+</ul>
+<p>La maestra👩‍🏫o maestro👨‍🏫 sabe cómo nos va a cada uno, no solo lo que hacemos en el dibujo o el juego.<br />Nos permite mejorar juntos y ayudarnos cuando lo necesitamos.<br /><br /><strong>3. Lista de cotejo pictográfica</strong> ✅🖼️<br /><em>Qué es:</em><br />Es una listita con dibujos donde se marca si hemos hecho cosas importantes del proyecto. Por ejemplo:</p>
+<p><img src="{{context_path}}/content/resources/lista_de_cotejo_pictogr_fica.png" alt="LISTA DE COTEJO PICTOGRÁFICA" title="LISTA DE COTEJO PICTOGRÁFICA" width="794" height="463" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mord0itn-m1u2kug7a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En nuestro proyecto RespetARTE, vamos a aprender a respetarnos, crear arte y divertirnos juntos. Para saber cómo lo estamos haciendo, vamos a usar algunas formas muy fáciles y visuales:</p>\n<p><strong>1. Rúbrica visual de progreso</strong> 🖍️🙂😃<br />Qué es:<br />Es una tarjeta con caritas y dibujitos que nos ayuda a ver si estamos respetando, participando y creando nuestras obras de arte.</p>\n<p><em>Cómo funciona:</em></p>\n<ul>\n<li>Después de cada actividad, miramos la tarjeta.</li>\n<li>Cada uno elige la carita que cree que muestra cómo lo ha hecho.</li>\n<li>La maestra o maestro confirma o hablamos juntos sobre nuestra elección.</li>\n</ul>\n<p><em>Por qué nos sirve:</em></p>\n<ul>\n<li>Es fácil de entender aunque aún no sepamos leer mucho.</li>\n<li>Podemos ver nuestro progreso paso a paso.</li>\n<li>Nos ayuda a autoevaluarnos y saber qué podemos mejorar.</li>\n</ul>\n<p>Pulsa aquí para entrar🌈👉 <a href=\"https://canva.link/olq87uj6nwl3xbs\">Rúbrica visual de progreso</a> 🖍️🙂😃</p>\n<p><strong>2. Diario de observación</strong> 📒👀<br /><em>Qué es:</em><br />Es como un diario secreto de la maestra o maestro, donde apunta cosas importantes de cómo estamos trabajando.</p>\n<p><em>Qué se observa:</em></p>\n<ul>\n<li>Cómo nos ayudamos y respetamos a los demás 🤝</li>\n<li>Cómo hablamos y nos comunicamos 🗣️👋</li>\n<li>Si ponemos esfuerzo en nuestras actividades artísticas 🎨</li>\n<li>Cómo seguimos rutinas y trabajamos solos o en grupo</li>\n<li>Cómo nos sentimos: felices, motivados, un poquito frustrados 😄😕</li>\n<li>Cómo nos ayuda:</li>\n</ul>\n<p>La maestra👩‍🏫o maestro👨‍🏫 sabe cómo nos va a cada uno, no solo lo que hacemos en el dibujo o el juego.<br />Nos permite mejorar juntos y ayudarnos cuando lo necesitamos.<br /><br /><strong>3. Lista de cotejo pictográfica</strong> ✅🖼️<br /><em>Qué es:</em><br />Es una listita con dibujos donde se marca si hemos hecho cosas importantes del proyecto. Por ejemplo:</p>\n<p><img src=\"{{context_path}}/content/resources/lista_de_cotejo_pictogr_fica.png\" alt=\"LISTA DE COTEJO PICTOGRÁFICA\" title=\"LISTA DE COTEJO PICTOGRÁFICA\" width=\"794\" height=\"463\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozor982-m9cw3zvh4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS DEL PROYECTO 🎨💖</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS DEL PROYECTO 🎨💖</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS DEL PROYECTO 🎨💖</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor982-m9cw3zvh4</odePageId>
+      <odeBlockId>block-mord0itn-y5bhqazr3</odeBlockId>
+      <blockName>Créditos del proyecto RespetARTE</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor982-m9cw3zvh4</odePageId>
+          <odeBlockId>block-mord0itn-y5bhqazr3</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-2amjaxglt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>👩‍🏫 Autoría: Creación y desarrollo por VICTORIA RODRÍGUEZ BAUZÁN<br />📝 Descripción: Proyecto educativo para 1º de primaria sobre respeto y convivencia mediante actividades artísticas.<br />💾 Archivo descargable: RespetARTE.elp  (editable en eXeLearning)<br />⚖️ Licencia de uso: Todos los derechos reservados por VICTORIA RODRÍGUEZ BAUZÁN<br />🖼️ Recursos externos: Pictogramas ARASAAC: https://arasaac.org<br />                                            Materiales gráficos de Canva, Genially, Mindmeister, YoutuBe... </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>👩‍🏫 Autoría: Creación y desarrollo por VICTORIA RODRÍGUEZ BAUZÁN<br />📝 Descripción: Proyecto educativo para 1º de primaria sobre respeto y convivencia mediante actividades artísticas.<br />💾 Archivo descargable: RespetARTE.elp  (editable en eXeLearning)<br />⚖️ Licencia de uso: Todos los derechos reservados por VICTORIA RODRÍGUEZ BAUZÁN<br />🖼️ Recursos externos: Pictogramas ARASAAC: https://arasaac.org<br />                                            Materiales gráficos de Canva, Genially, Mindmeister, YoutuBe... </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozor982-m9cw3zvh4</odePageId>
+      <odeBlockId>block-mord0itm-3x1bkrkdz</odeBlockId>
+      <blockName>Descargar archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor982-m9cw3zvh4</odePageId>
+          <odeBlockId>block-mord0itm-3x1bkrkdz</odeBlockId>
+          <odeIdeviceId>idevice-mord0itm-6dadgpk80</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>RespetARTE: cuando el RESPETO se vuelve ARTE</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>RespetARTE es un proyecto para mi curso de 1.º de primaria que ayuda a los estudiantes a comprender y practicar el respeto a través del arte y actividades digitales sencillas. El recurso combina dibujos, juegos interactivos y pequeñas tareas que fortalecen la competencia digital del alumnado mientras aprenden a convivir y cuidarse mutuamente</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Mª Victoria Rodríguez Bauzán</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td>Creative Commons: Reconocimiento - compartir igual 4.0</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a href="exe-package:elp" style="background-color:#aaffff;">Descargar el fichero .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozor983-472hnkjxt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA📘</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA📘</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA📘</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozor983-472hnkjxt</odePageId>
+      <odeBlockId>block-mord0itn-gx5k683yh</odeBlockId>
+      <blockName>Guía didáctica 📘</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozor983-472hnkjxt</odePageId>
+          <odeBlockId>block-mord0itn-gx5k683yh</odeBlockId>
+          <odeIdeviceId>idevice-mord0itn-xckk7ttjp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Introducción:</strong><br />Esta guía sirve para docentes y familias, mostrando las tareas del proyecto RespetARTE y cómo se evaluarán. Aquí se relacionan las actividades con los criterios de evaluación y los instrumentos utilizados.</p>
+<p><strong>Tareas del proyecto</strong> 📝</p>
+<p>✅ Descubro qué es el respeto<br />✅ Palabras que cuidan<br />✅ Manos que respetan<br />✅ Fotografío el respeto<br />✅ Nuestro lema RespetARTE<br />✅ Expo RespetARTE</p>
+<p><strong>Criterios de evaluación</strong> ✅</p>
+<p><img src="{{context_path}}/content/resources/criterios_de_evaluaci_n_.png" alt="CRITERIOS DE EVALUACIÓN" title="CRITERIOS DE EVALUACIÓN" width="1002" height="477" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><a href="https://docs.google.com/document/d/1UlcRKgwBoZJA5hNGtJBCtNIf2kHz3eFhWEqSCfm5CUo/edit?usp=sharing" target="_blank" title="" rel="noopener"><strong>Archivo descargable</strong> 💾</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mord0itn-xckk7ttjp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Introducción:</strong><br />Esta guía sirve para docentes y familias, mostrando las tareas del proyecto RespetARTE y cómo se evaluarán. Aquí se relacionan las actividades con los criterios de evaluación y los instrumentos utilizados.</p>\n<p><strong>Tareas del proyecto</strong> 📝</p>\n<p>✅ Descubro qué es el respeto<br />✅ Palabras que cuidan<br />✅ Manos que respetan<br />✅ Fotografío el respeto<br />✅ Nuestro lema RespetARTE<br />✅ Expo RespetARTE</p>\n<p><strong>Criterios de evaluación</strong> ✅</p>\n<p><img src=\"{{context_path}}/content/resources/criterios_de_evaluaci_n_.png\" alt=\"CRITERIOS DE EVALUACIÓN\" title=\"CRITERIOS DE EVALUACIÓN\" width=\"1002\" height=\"477\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><a href=\"https://docs.google.com/document/d/1UlcRKgwBoZJA5hNGtJBCtNIf2kHz3eFhWEqSCfm5CUo/edit?usp=sharing\" target=\"_blank\" title=\"\" rel=\"noopener\"><strong>Archivo descargable</strong> 💾</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
